@@ -1,0 +1,22 @@
+baseURL = "https://zmadie.github.io/blog/"
+languageCode = "en-us"
+title = "zmλdie's blog"
+theme = ["yue", "hugo-video"]
+
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+
+[[menus.main]]
+name = "Posts"
+pageRef = "/posts"
+
+[params]
+dateFormat = "2 of January 2006"
+author = "zmλdie"
+custom_css = ["css/custom.css"]
+
+[params.footer.copyright]
+yearStart = 2024
+yearEnd = 2024
+author = "zmλdie"

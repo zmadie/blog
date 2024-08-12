@@ -1,0 +1,9 @@
+// This file will be applied first
+// You can override variables, example:
+// $base-font-size: 10px;
+img[src$='#center'] {
+    display: block;
+    margin: 1.0rem auto;
+    max-width: 100%;
+    height: auto;
+}
