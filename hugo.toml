@@ -14,7 +14,6 @@ pageRef = "/posts"
 [params]
 dateFormat = "2 of January 2006"
 author = "zmλdie"
-custom_css = ["css/custom.css"]
 
 [params.footer.copyright]
 yearStart = 2024
